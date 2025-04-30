@@ -1,6 +1,6 @@
 import pandas as pd
-from evaluate_method.init_module import *
-from evaluate_method.evaluate_proposed_method import evaluate_proposed_method
+from evaluation_methods.init_module import *
+from evaluation_methods.evaluate_proposed_method import evaluate_proposed_method
 
 def get_early_lecture_and_under_name(course):
     course_config = {
