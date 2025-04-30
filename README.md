@@ -1,6 +1,10 @@
 # Overview
 
-This repository contains the implementation and evaluation code for our proposed method for at-risk student prediction using federated learning and differential features.
+This repository contains supplementary materials for the following conference paper:
+
+Shunsuke Yoneda, Valdemar Švábenský, Gen Li, Daisuke Deguch, and Atsushi Shimada.\
+**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**.\
+In Proceedings of the 17th International Conference on Educational Data Mining ([EDM 2025](https://educationaldatamining.org/edm2025/)).\
 
 # File Description
 
