@@ -6,6 +6,9 @@ Shunsuke Yoneda, Valdemar Švábenský, Gen Li, Daisuke Deguch, and Atsushi Shim
 **Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**.\
 In Proceedings of the 18th International Conference on Educational Data Mining ([EDM 2025](https://educationaldatamining.org/edm2025/)).
 
+## Preprocessing with E2Vec
+We use [E2Vec](https://github.com/limu-research/2024-edm-e2vec) for preprocessing student learning log data.  
+
 # File Description
 
 ## Main Notebook
