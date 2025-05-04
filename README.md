@@ -24,17 +24,17 @@ We use [E2Vec](https://github.com/limu-research/2024-edm-e2vec) for preprocessin
     This file generates the results shown in **Table 4(Proposed Method)** and **Table 5(Proposed Method)** using the full proposed method.
 
   - `evaluation_not_federated.py`  
-    Generates the results shown in **Table 4(Baseline Method 1)** using centralized (non-federated) learning.
+    This file generates the results shown in **Table 4(Baseline Method 1)** using centralized (non-federated) learning.
     
   - `evaluation_not_difference.py`  
-    Generates the results shown in **Table 5(Baseline Method 2)** without using differential features .
+    This file generates the results shown in **Table 5(Baseline Method 2)** without using differential features .
 
   - `evaluation_proposed_method_early.py`  
-    Generates the results shown in **Table 6(Proposed Method)**, which evaluates the proposed method on early-stage prediction.
+    This file generates the results shown in **Table 6(Proposed Method)**, which evaluates the proposed method on early-stage prediction.
 
 
   - `evaluation_relationship_lecture_sessions.py`  
-    Generates the results shown in **Figure 10–14**, showing prediction performance over lecture sessions.
+    This file generates the results shown in **Figure 10–14**, showing prediction performance over lecture sessions.
 
   - `evaluation_relationship_grades_and_rankings.py`  
-    Generates the results shown in **Figure 15–20**, showing the relationship between At-risk rankings and actual grades.
+    This file generates the results shown in **Figure 15–20**, showing the relationship between At-risk rankings and actual grades.
