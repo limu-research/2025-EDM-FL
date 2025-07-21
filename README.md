@@ -4,7 +4,8 @@ This repository contains supplementary materials for the following conference pa
 
 Shunsuke Yoneda, Valdemar Švábenský, Gen Li, Daisuke Deguchi, and Atsushi Shimada.\
 **Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**.\
-In Proceedings of the 18th International Conference on Educational Data Mining ([EDM 2025](https://educationaldatamining.org/edm2025/)).
+In Proceedings of the 18th International Conference on Educational Data Mining ([EDM 2025](https://educationaldatamining.org/edm2025/)).\
+DOI: [10.5281/zenodo.15870193](https://zenodo.org/records/15870193)
 
 ```bibtex
 @inproceedings{Yoneda2025ranking,
@@ -13,14 +14,15 @@ In Proceedings of the 18th International Conference on Educational Data Mining (
     booktitle = {Proceedings of the 18th International Conference on Educational Data Mining},
     series    = {EDM '25},
     location  = {Palermo, Italy},
-    editor    = {},
+    editor    = {Caitlin Mills and Giora Alexandron and Davide Taibi and Giosue Lo Bosco and Luc Paquette},
     publisher = {International Educational Data Mining Society},
     month     = {07},
     year      = {2025},
-    pages     = {},
+    pages     = {289--302},
     numpages  = {14},
-    url       = {},
-    doi       = {},
+    isbn      = {978-1-7336736-6-2},
+    url       = {https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.long-papers.51/2025.EDM.long-papers.51.pdf},
+    doi       = {10.5281/zenodo.15870193},
 }
 ```
 
